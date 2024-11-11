@@ -3,7 +3,7 @@
 ## Overview
 This project uses Power BI to analyze patient diagnosis data, uncovering insights into health risks, demographics, and lifestyle factors. The interactive dashboard visualizes various health metrics, including heart attack and stroke rates, weight distribution by occupation, and age-based health trends.
 
-![Power BI Dashboard](Assets/Dashboard_Googgle_Trend.png)
+![Power BI Dashboard](Asset/Dashboard_.png)
 
 ## Features
 - **Heart Attack & Stroke Analysis**: Correlation between heart attack and stroke occurrences.
