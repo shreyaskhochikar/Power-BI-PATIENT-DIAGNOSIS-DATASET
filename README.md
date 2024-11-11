@@ -28,7 +28,7 @@ The dataset consists of 28 attributes including:
 ## Getting Started
 1. Clone this repository:
    ```ruby
-   git clone https://github.com/Ayushzade/PATIENT_DIAGNOSIS_DATASET.git
+   git clone https://github.com/shreyaskhochikar/Power-BI-PATIENT-DIAGNOSIS-DATASET.git
 2. Open the PatientDiagnosis.pbix file in Power BI Desktop.
 3. Interact with the visualizations and explore the data insights.
 
